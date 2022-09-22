@@ -1,10 +1,10 @@
 ## Python Programming for Data Science I <img src="oudce_logo.png" align="right"/>
 
-### Massimiliano Izzo 
+### By Massimiliano Izzo 
 
 Materials for [Python Programming for Data Science WOW Course](https://www.conted.ox.ac.uk/courses/python-programming-for-data-science-part-1?code=O21P656COW) - **this page will be updated as the course progresses**.
 
-The class workspace on **Slack** is https://pp4ds-ox.slack.com. I encourage you to ask questions should you have them in the Slack channel incase your classmates can help. Massi (your tutor; massimiliano.izzo@conted.ox.ac.uk) will also check Slack and provide support where possible. Download Slack from: https://slack.com/get
+The class workspace on **Slack** is https://pp4ds-ox.slack.com. I encourage you to ask questions should you have them in the Slack channel incase your classmates can help. Nick (your tutor; nick.day@conted.ox.ac.uk) will also check Slack and provide support where possible. Download Slack from: https://slack.com/get
 
 If you do not wish to use slack you can use Canvas to contact me and other students. 
 
