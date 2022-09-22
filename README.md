@@ -1,10 +1,10 @@
 ## Python Programming for Data Science I <img src="oudce_logo.png" align="right"/>
 
-### Massimiliano Izzo 
+### By Massimiliano Izzo 
 
 Materials for [Python Programming for Data Science WOW Course](https://www.conted.ox.ac.uk/courses/python-programming-for-data-science-part-1?code=O21P656COW) - **this page will be updated as the course progresses**.
 
-The class workspace on **Slack** is https://pp4ds-ox.slack.com. I encourage you to ask questions should you have them in the Slack channel incase your classmates can help. Massi (your tutor; massimiliano.izzo@conted.ox.ac.uk) will also check Slack and provide support where possible. Download Slack from: https://slack.com/get
+The class workspace on **Slack** is https://pp4ds-ox.slack.com. I encourage you to ask questions should you have them in the Slack channel incase your classmates can help. Nick (your tutor; nick.day@conted.ox.ac.uk) will also check Slack and provide support where possible. Download Slack from: https://slack.com/get
 
 If you do not wish to use slack you can use Canvas to contact me and other students. 
 
@@ -16,37 +16,10 @@ You can also run online live versions of the notebooks that are launched by **[B
 
 ### Cloning this repository to use it offline
 
+Click on the green 'Code' buttone at the top right of this page, then you could either open this in an IDE, or clone via GitHub desktop. 
+
 If you want to run the notebooks on your own computer at home, apart from installing Jupyter/Anaconda as per above, you will need to install **Git**, which is a source code management software, from [here](https://git-scm.com/downloads). Windows users can also get Git here: https://gitforwindows.org/. Once installed, you need to open up the command-line ("Command Prompt" on Windows or "Terminal" on Mac OSX) to run some commands.
 
-Change directory to somewhere sensible, such as `My Documents` or similar on Windows or `Documents` on Mac OSX. Assuming you're using `Documents`:
-
-```
-cd Documents
-```
-
-Then ask Git to clone this repository with the following command.
-```
-git clone https://gitlab.com/data-science-course/pp4ds-pt1-ht2022.git
-```
-or, if you have SSH enabled
-```
-git clone git@gitlab.com:data-science-course/pp4ds-pt1-ht2022.git
-```
-
-This will create a subdirectory called `pp4ds-pt1-ht2022` in your `Documents` folder. When you need to update the content at some later time after I have added some new files to the repository, you will need to open up the command-line again and do the following commands.
-```
-cd Documents/pp4ds-pt1-ht2022
-git pull
-```
-What this does is to ask Git to check if there are any new changes in the online repository and to download those new files or updates to the existing files.
-
-Either some lines of stuff should whizz by, or it will say `Already up to date.` if there are no new changes.
-
-If this doesn't work, you may need to force the update, which will overwrite your local files. To do this (make sure any of your own work is renamed or moved outside of the `pp4ds-pt1-ht2022` folder first):
-```
-git fetch --all
-git reset --hard origin/master
-```
 
 ### Course Programme
 
